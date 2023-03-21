@@ -6,3 +6,5 @@
 - PARA PALETA DE CORES: https://color.adobe.com/pt/create/color-wheel
 - PARA ICONES EXPO: https://icons.expo.fyi/
 - PARA IMAGENS GRATUITAS: https://stock.adobe.com/br/
+- PLOTAGEM DE GRAFICOS: https://www.youtube.com/watch?v=_sXC7g_UhuI
+- ROTULO EM GRAFICO DE BARRAS: https://www.youtube.com/watch?v=fD0MPHGCLMo
