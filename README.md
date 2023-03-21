@@ -1,3 +1,3 @@
 # SITES_PARA_AJUDA.
 
-https://devicon.dev/
+PARA ICONES NO GITHUB: https://devicon.dev/
