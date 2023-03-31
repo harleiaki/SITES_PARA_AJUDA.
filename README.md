@@ -8,4 +8,5 @@
 - PARA IMAGENS GRATUITAS: https://stock.adobe.com/br/
 - PLOTAGEM DE GRAFICOS: https://www.youtube.com/watch?v=_sXC7g_UhuI
 - ROTULO EM GRAFICO DE BARRAS: https://www.youtube.com/watch?v=fD0MPHGCLMo
-- https://lottiefiles.com/search?q=heart&category=animations
+- ICONE ANIMADO: https://lottiefiles.com/search?q=heart&category=animations
+- PARA ICONES NO REACT: https://mui.com/material-ui/material-icons/
