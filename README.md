@@ -10,3 +10,4 @@
 - ROTULO EM GRAFICO DE BARRAS: https://www.youtube.com/watch?v=fD0MPHGCLMo
 - ICONE ANIMADO: https://lottiefiles.com/search?q=heart&category=animations
 - PARA ICONES NO REACT: https://mui.com/material-ui/material-icons/
+- EMOTES PARA GITHUB: https://gitmoji.dev/
