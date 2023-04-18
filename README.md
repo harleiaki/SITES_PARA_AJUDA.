@@ -11,3 +11,4 @@
 - ICONE ANIMADO: https://lottiefiles.com/search?q=heart&category=animations
 - PARA ICONES NO REACT: https://mui.com/material-ui/material-icons/
 - EMOTES PARA GITHUB: https://gitmoji.dev/
+- DEPENDENCIAS DO PYTHON: https://pypi.org/
