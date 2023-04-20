@@ -12,3 +12,4 @@
 - PARA ICONES NO REACT: https://mui.com/material-ui/material-icons/
 - EMOTES PARA GITHUB: https://gitmoji.dev/
 - DEPENDENCIAS DO PYTHON: https://pypi.org/
+- TUTORIAL POSTGRESQL: https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/
